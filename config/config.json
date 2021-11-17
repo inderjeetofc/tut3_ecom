@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "inderjeet_user",
+    "password": "123",
+    "database": "tut3_ecom_dev",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
